@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  3 APR 2024 11:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  12 APR 2024 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,12 +341,12 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 16--20
-[][] 
+Overfull \hbox (30.0pt too wide) in paragraph at lines 16--22
+[] 
  []
 
 
-Overfull \hbox (8.28008pt too wide) in paragraph at lines 24--25
+Overfull \hbox (8.28008pt too wide) in paragraph at lines 26--27
 []\OT1/cmr/m/n/10.95 Pursuing Ph.D.(Design of Binary Classification Algorithms)
 , at \OT1/cmr/bx/n/10.95 School of Computer and Information
  []
@@ -354,45 +354,45 @@ Overfull \hbox (8.28008pt too wide) in paragraph at lines 24--25
 [1
 
 {/home/narasimhulu/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (2.01964pt too wide) in paragraph at lines 132--133
+Overfull \hbox (2.01964pt too wide) in paragraph at lines 134--135
 []\OT1/cmr/bx/n/10.95 M. S. Raghavendra, P. Chawla and Y. Narasimhulu, ``A Prob
 ability Based Joint-Clustering
  []
 
 
-Overfull \hbox (0.81937pt too wide) in paragraph at lines 134--135
+Overfull \hbox (0.81937pt too wide) in paragraph at lines 136--137
 \OT1/cmr/m/n/10.95 International Semantic Intelligence Conference 2021(ISIC 202
 1), CEUR Conference Proceedings(CEUR-
  []
 
 
-Overfull \hbox (3.7875pt too wide) in paragraph at lines 160--161
+Overfull \hbox (3.7875pt too wide) in paragraph at lines 162--163
 []\OT1/cmr/m/n/10.95 Credit card fraud detection based on improved Variational 
 Autoencoder Generative Adversarial Network. 
  []
 
 [2]
-Overfull \hbox (3.54659pt too wide) in paragraph at lines 188--189
+Overfull \hbox (3.54659pt too wide) in paragraph at lines 190--191
 []\OT1/cmr/bx/n/10.95 ``International Semantic Intelligence Conference(ISIC - 2
 021)"\OT1/cmr/m/n/10.95 , at MERI College of Engineering
  []
 
 
-Overfull \hbox (8.76859pt too wide) in paragraph at lines 208--209
+Overfull \hbox (8.76859pt too wide) in paragraph at lines 210--211
 []\OT1/cmr/m/n/10.95 Worked as ``ASSISTANT PROFESSOR" at RAVINDRA COLLEGE OF EN
 GINEERING FOR WOMEN 
  []
 
 [3]
-<signature.jpg, id=23, 163.61125pt x 44.165pt>
+<signature.jpg, id=25, 163.61125pt x 44.165pt>
 File: signature.jpg Graphic file (type jpg)
 <use signature.jpg>
-Package pdftex.def Info: signature.jpg  used on input line 273.
+Package pdftex.def Info: signature.jpg  used on input line 275.
 (pdftex.def)             Requested size: 122.70813pt x 33.12364pt.
-<Narasimpassport.jpg, id=24, 468.75125pt x 531.9875pt>
+<Narasimpassport.jpg, id=26, 468.75125pt x 531.9875pt>
 File: Narasimpassport.jpg Graphic file (type jpg)
 <use Narasimpassport.jpg>
-Package pdftex.def Info: Narasimpassport.jpg  used on input line 279.
+Package pdftex.def Info: Narasimpassport.jpg  used on input line 281.
 (pdftex.def)             Requested size: 101.17645pt x 114.82153pt.
  [4 <./signature.jpg> <./Narasimpassport.jpg>] (cv_4.aux)
  ***********
@@ -416,9 +416,9 @@ Here is how much of TeX's memory you used:
 ts/cm/cmr10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (4 pages, 116543 bytes).
+Output written on cv_4.pdf (4 pages, 117052 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
