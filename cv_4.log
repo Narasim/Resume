@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  21 MAY 2024 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  6 JUN 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,15 +372,15 @@ Overfull \hbox (3.54659pt too wide) in paragraph at lines 186--187
  []
 
 [3]
-<signature.jpg, id=27, 163.61125pt x 44.165pt>
+<signature.jpg, id=28, 163.61125pt x 44.165pt>
 File: signature.jpg Graphic file (type jpg)
 <use signature.jpg>
-Package pdftex.def Info: signature.jpg  used on input line 297.
+Package pdftex.def Info: signature.jpg  used on input line 298.
 (pdftex.def)             Requested size: 122.70813pt x 33.12364pt.
-<Narasimpassport.png, id=28, 260.172pt x 346.896pt>
+<Narasimpassport.png, id=29, 260.172pt x 346.896pt>
 File: Narasimpassport.png Graphic file (type png)
 <use Narasimpassport.png>
-Package pdftex.def Info: Narasimpassport.png  used on input line 303.
+Package pdftex.def Info: Narasimpassport.png  used on input line 304.
 (pdftex.def)             Requested size: 101.17645pt x 134.90248pt.
  [4 <./signature.jpg> <./Narasimpassport.png (PNG copy)>] (cv_4.aux)
  ***********
@@ -397,15 +397,15 @@ Here is how much of TeX's memory you used:
  30836 multiletter control sequences out of 15000+600000
  561722 words of font info for 48 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 72i,7n,79p,1457b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,79p,1457b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb>
-Output written on cv_4.pdf (4 pages, 156782 bytes).
+Output written on cv_4.pdf (4 pages, 156583 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
