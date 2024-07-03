@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  2 JUL 2024 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.12.5)  3 JUL 2024 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -348,25 +348,19 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 16--20
 [1
 
 {/home/narasimhulu/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (2.01964pt too wide) in paragraph at lines 131--132
+Overfull \hbox (2.01964pt too wide) in paragraph at lines 143--144
 []\OT1/cmr/bx/n/10.95 M. S. Raghavendra, P. Chawla and Y. Narasimhulu, ``A Prob
 ability Based Joint-Clustering
  []
 
 
-Overfull \hbox (0.81937pt too wide) in paragraph at lines 133--134
+Overfull \hbox (0.81937pt too wide) in paragraph at lines 145--146
 \OT1/cmr/m/n/10.95 International Semantic Intelligence Conference 2021(ISIC 202
 1), CEUR Conference Proceedings(CEUR-
  []
 
-
-Overfull \hbox (3.7875pt too wide) in paragraph at lines 161--162
-[]\OT1/cmr/m/n/10.95 Credit card fraud detection based on improved Variational 
-Autoencoder Generative Adversarial Network. 
- []
-
 [2]
-Overfull \hbox (3.54659pt too wide) in paragraph at lines 187--188
+Overfull \hbox (3.54659pt too wide) in paragraph at lines 214--215
 []\OT1/cmr/bx/n/10.95 ``International Semantic Intelligence Conference(ISIC - 2
 021)"\OT1/cmr/m/n/10.95 , at MERI College of Engineering
  []
@@ -375,12 +369,12 @@ Overfull \hbox (3.54659pt too wide) in paragraph at lines 187--188
 <signature.jpg, id=28, 163.61125pt x 44.165pt>
 File: signature.jpg Graphic file (type jpg)
 <use signature.jpg>
-Package pdftex.def Info: signature.jpg  used on input line 299.
+Package pdftex.def Info: signature.jpg  used on input line 319.
 (pdftex.def)             Requested size: 122.70813pt x 33.12364pt.
 <Narasimpassport.png, id=29, 260.172pt x 346.896pt>
 File: Narasimpassport.png Graphic file (type png)
 <use Narasimpassport.png>
-Package pdftex.def Info: Narasimpassport.png  used on input line 305.
+Package pdftex.def Info: Narasimpassport.png  used on input line 325.
 (pdftex.def)             Requested size: 101.17645pt x 134.90248pt.
  [4 <./signature.jpg> <./Narasimpassport.png (PNG copy)>] (cv_4.aux)
  ***********
@@ -397,13 +391,13 @@ Here is how much of TeX's memory you used:
  30836 multiletter control sequences out of 15000+600000
  561722 words of font info for 48 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 72i,7n,79p,1457b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,79p,1457b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></home/narasimhulu/.miktex/texmfs/install/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb>
-Output written on cv_4.pdf (4 pages, 156808 bytes).
+Output written on cv_4.pdf (4 pages, 156284 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
